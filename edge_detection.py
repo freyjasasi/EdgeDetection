@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Jan  7 09:37:32 2017
-
-@author: sasi
-"""
-
 import cv2
 import numpy as np
 
